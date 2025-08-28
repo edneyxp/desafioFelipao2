@@ -74,5 +74,5 @@ do {
     }
 } while (continua)
 
-    console.log("\nObrigado por usar o classificador. Ate breve!");
-    console.log("\nMatrix Maraba agradece a sua preferencia.");
+    console.log("\nObrigado por usar o nossos servicos. Ate breve!");
+    console.log("\nMABtrix Soft agradece a sua preferencia.");
