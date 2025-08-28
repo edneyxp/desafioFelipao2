@@ -74,5 +74,5 @@ do {
     }
 } while (continua)
 
-    console.log("\nObrigado por usar o nossos servicos. Ate breve!");
+    console.log("\nObrigado por usar os nossos servicos. Ate breve!");
     console.log("\nMABtrix Soft agradece a sua preferencia.");
