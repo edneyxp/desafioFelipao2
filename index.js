@@ -23,11 +23,11 @@ function classificaHeroi (win) {
                         classe = "Diamante";
                     } else if ((win > 90) && (win <= 100 )) {
                             classe = "Lendario";
-                }       else if (win > 100) {
+                        }  else if (win > 100) {
                                      classe = "Imortal";
-                        }        else {
+                            }   else {
                                         classe = "Erro na classificacao!";
-                }
+                            }
     return classe;
 }
 // Inicia o laço
