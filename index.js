@@ -72,7 +72,8 @@ do {
 
         
     }
-} while (continua)
+} while (continua) // Fim do laço
 
-    console.log("\nObrigado por usar os nossos servicos. Ate breve!");
-    console.log("\nMABtrix Soft agradece a sua preferencia.");
+// Mensagem de agradecimento
+console.log("\nObrigado por usar os nossos servicos. Ate breve!");
+console.log("\nMABtrix Soft agradece a sua preferencia.");
